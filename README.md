@@ -57,7 +57,8 @@ The data belongs to a fictional consumer goods company, **Atliq Hardware**, with
 
 1. Provide the list of markets in which customer "Atliq Exclusive" operates its business in the APAC region
 
-   ![Request 1 Output](![image](https://github.com/user-attachments/assets/069d9b5d-03b1-42fd-85b4-17f9d57c9818)
+   ![Request 1 Output](![Uploading image.png…]()
+)
 )
 
 ---
