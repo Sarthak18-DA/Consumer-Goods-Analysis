@@ -78,8 +78,4 @@ Special thanks to [Dhaval Patel](https://www.linkedin.com/in/dhavalsays/) and th
 
 ---
 
-## 📽️ Bonus (Optional)
-
-🔗 [Presentation Video](#) – Explaining how I solved each business problem using SQL.  
-🔗 [LinkedIn Post](#) – About my experience solving this challenge.
 
